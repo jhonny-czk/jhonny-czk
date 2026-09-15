@@ -92,6 +92,17 @@ Monitoring and visualization solutions for PostgreSQL environments.
 
 ---
 
+### 🖧 Byzantine Fault-Tolerant Consensus
+
+Implementation of a Byzantine fault-tolerant consensus algorithm using C and 
+virtual machines managed through the KVM hypervisor, exploring virtualization 
+as an infrastructure layer for distributed consensus.
+
+**Technologies:**
+`Virtualization` `Linux` `KVM` `C` `Distributed Systems` `BFT` `Security`  
+
+---
+
 ### 🤖 Computer Vision & Robotics
 
 **Object Recognition in Indoor Environments**

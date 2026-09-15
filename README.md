@@ -57,17 +57,18 @@
 
 My academic interests include:
 
+- Virtualization
+- Computer Networks
+- Distributed Systems
+- Cybersecurity
+- Algorithms and Software Systems
 - Artificial Intelligence
-- Computer Vision
 - Neural Networks
+- Computer Vision
 - Mobile Robotics
 - Robot Operating System (ROS)
-- Algorithms and Software Systems
-- Distributed Systems
-- Computer Networks
-- Cybersecurity
 
-My undergraduate research and final-year project involved **object recognition using neural networks and PyTorch with images from the Robot Operating System (ROS)**.
+My undergraduate research and final-year project involved **Object recognition using neural networks and PyTorch with images from the Robot Operating System (ROS)**.
 
 ---
 

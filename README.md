@@ -4,12 +4,14 @@
 - 🎓 M.Sc. student in Informatics at UFPR  — In Progress*
 - 🎓 B.Sc. in Computer Science
 - 🐧 Linux / System Administration
+- 🌐 Networks & Infrastructure
 - ☁️ Cloud & DevOps
 - 🐳 Docker & Kubernetes
 - ☁️ AWS
-- 🗄️ PostgreSQL & SQL Server
-- 🐍 Python & Shell Script
+- 🛢️ PostgreSQL & SQL Server
+- 🐍 Python & Javascript
 - ☕ Java & C
+- >_ Shell Script
 - 🤖 Artificial Intelligence, Computer Vision & Robotics
 
 ---

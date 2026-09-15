@@ -9,9 +9,8 @@
 - 🐳 Docker & Kubernetes
 - ☁️ AWS
 - 🛢️ PostgreSQL & SQL Server
-- 🐍 Python & Javascript
-- ☕ Java & C
-- >_ Shell Script
+- 🐍 Python, C & Shell Script
+- ☕ Java & Javascript 
 - 🤖 Artificial Intelligence, Computer Vision & Robotics
 
 ---

@@ -74,14 +74,12 @@ My undergraduate research and final-year project involved **Object recognition u
 
 ## 🚀 Featured Projects
 
-### 🤖 Computer Vision & Robotics
+### 🐧 Linux & Infrastructure
 
-**Object Recognition in Indoor Environments**
-
-Research project focused on object recognition using deep learning models and images obtained from a ROS-based mobile robot.
+Scripts, configurations and experiments related to Linux system administration, infrastructure automation and server management.
 
 **Technologies:**  
-`Python` `PyTorch` `Computer Vision` `Neural Networks` `ROS` `Robotics`
+`Linux` `Debian` `Shell Script` `Docker` `Kubernetes`
 
 ---
 
@@ -94,11 +92,14 @@ Monitoring and visualization solutions for PostgreSQL environments.
 
 ---
 
-### 🐧 Linux & Infrastructure
+### 🤖 Computer Vision & Robotics
 
-Scripts, configurations and experiments related to Linux system administration, infrastructure automation and server management.
+**Object Recognition in Indoor Environments**
+
+Research project focused on object recognition using deep learning models and images obtained from a ROS-based mobile robot.
 
 **Technologies:**  
-`Linux` `Debian` `Shell Script` `Docker` `Kubernetes`
+`Python` `PyTorch` `Computer Vision` `Neural Networks` `ROS` `Robotics`
 
 ---
+

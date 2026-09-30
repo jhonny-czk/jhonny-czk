@@ -1,7 +1,7 @@
 ## About Me 👨‍💻
 
 - 💼 Systems Analyst 
-- 🎓 M.Sc. student in Informatics at UFPR  — In Progress*
+- 🎓 M.Sc. student in Informatics at UFPR 
 - 🎓 B.Sc. in Computer Science
 - 🐧 Linux / System Administration
 - 🌐 Networks & Infrastructure
